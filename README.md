@@ -18,7 +18,7 @@ This project is an interactive retail sales dashboard created using Microsoft Po
 
 ## 📷 Preview
 
-![Dashboard Preview](Screenshots/dashboard.png)
+![Dashboard Preview](Screenshots.png)
 
 ## 📁 Files Included
 
