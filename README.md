@@ -16,9 +16,6 @@ This project is an interactive retail sales dashboard created using Microsoft Po
 - Excel (CSV/Excel dataset)
 - DAX (basic)
 
-## 📷 Preview
-
-![Dashboard Preview](Screenshots.png)
 
 ## 📁 Files Included
 
